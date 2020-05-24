@@ -1,0 +1,8 @@
+1. Put [this](https://github.com/alecalve/python-bitcoin-blockchain-parser) in your `PYTHONPATH`.
+2. Run `bitcoind -daemon`
+3. Run `python3 fti.py`
+
+
+Note:
+Giraph jython: https://issues.apache.org/jira/browse/GIRAPH-683
+
