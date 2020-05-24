@@ -1,4 +1,4 @@
-Bitcoin Graph
+# Bitcoin Graph
 Tool to represent Bitcoin transaction graph in Giraph format 
 
 # Table Of Contents
@@ -14,10 +14,9 @@ The parser then represents the graph in the format
 for each sent amount in the transaction. This is one of the supported formats of Apache Giraph. Using this graph, we can analyze the transactions using various graph processing algorithms like BFS, DFS, PageRank, ShortestPath, etc.. 
 
 # How To Run
-Install Bitcoin blockchain parser: https://github.com/alecalve/python-bitcoin-blockchain-parser
-Make sure the parser is in your `PYTHONPATH` OR copy the parser to the package’s folder `cp fti.py <python-bitcoin-blockchain-parser>`
-Install `bitcoind` by following instructions for your setup here: https://bitcoin.org/en/full-node
-Run `bitcoind` with `bitcoind -daemon`
-It might take a while for the daemon to get transactions
-Run `python fti.py <output_filename>`
-You will find the graph in the output file specified above
+1. Install Bitcoin blockchain parser: https://github.com/alecalve/python-bitcoin-blockchain-parser
+2. Make sure the parser is in your `PYTHONPATH` OR copy the parser to the package’s folder `cp fti.py <python-bitcoin-blockchain-parser>`
+3. Install `bitcoind` by following instructions for your setup here: https://bitcoin.org/en/full-node
+4. Run `bitcoind` with `bitcoind -daemon`. It might take a while for the daemon to get transactions
+5. Run `python fti.py <output_filename>`
+6. You will find the graph in the output file specified above
