@@ -2,8 +2,8 @@
 Tool to represent Bitcoin transaction graph in Giraph format 
 
 # Table Of Contents
-Background(#Background)
-How To Run(#how-to-run)
+1. Background(#Background)
+2. How To Run(#how-to-run)
 
 
 # Background
