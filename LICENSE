@@ -1,4 +1,9 @@
-Copyright for portions of this project are held by Antoine Le Calvez, as part of https://github.com/alecalve/python-bitcoin-blockchain-parser, which was released under the GNU Lesser General Public License as published by the Free Software Foundation, reproduced immediately below. All other copyright for this project are held by Onai, 2020, and the project is released under the Apache 2.0 license, reproduced following the GNU LGPL license below.
+Copyright for portions of this project are held by Antoine Le Calvez, as
+part of https://github.com/alecalve/python-bitcoin-blockchain-parser, which was
+released under the GNU Lesser General Public License as published by the Free Software Foundation,
+reproduced immediately below.
+All other copyright for this project are held by Onai, 2020, and the project is released under the
+Apache 2.0 license, reproduced following the GNU LGPL license below.
 
 bitcoin-blockchain-parser is free software: you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public License as
