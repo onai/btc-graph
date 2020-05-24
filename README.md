@@ -1,4 +1,4 @@
-# Bitcoin Graph
+# BTC Graph
 Tool to represent Bitcoin transaction graph in Giraph format 
 
 # Table Of Contents
